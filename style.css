@@ -66,3 +66,9 @@ button{
 #del ,#Alldel{
     background-color: rgba(228, 101, 101, 0.89);
 }
+@media screen and (max-width: 560px)
+{
+    #cal{
+        margin-left: 5%;
+    }
+}
